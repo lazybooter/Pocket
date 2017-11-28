@@ -1,0 +1,2 @@
+//填写子系统名称,避免jenkins使用workspace做为项目名称
+rootProject.name='Pocket'
